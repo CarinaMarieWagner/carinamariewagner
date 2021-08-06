@@ -1,0 +1,56 @@
+body{
+ font-family: verdana; 
+  color:#3a453a;
+ padding-left:30px;
+   }
+h1{
+ color: #145214;
+ size: 60px;
+ font-family: verdana;
+}
+p{
+ padding: 30 0 0 0px; 
+ color:#3a453a;
+  font-family: verdana; 
+}
+h2{
+ color:#006400;
+ text-decoration-line:underline;
+  font-family: verdana;
+}
+h4{
+ size: 20px;
+ padding: 0 10 0 0px;
+  font-family: verdana;
+ color:#006400;
+}
+h3{
+ color:#006400;
+ text-decoration-line:underline;
+  font-family: verdana; 
+}
+article{
+ margin: 0 100 0 0px;
+ color:#3a453a;
+ font-family: verdana; 
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+li{
+ font-family: verdana;
+ list-style: none;
+}
+ul{
+ font-family: verdana;
+ list-style: none;
+}
